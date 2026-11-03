@@ -1,0 +1,22 @@
+target/
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+*.log
+.mvn/wrapper/maven-wrapper.jar
+
+# JVM crash dumps
+hs_err_pid*.log
+replay_pid*.log
+
+# Extracted ELK jar contents (not part of the project)
+/org/
+/META-INF/
+/about.html
+/docs/
+/images/
+
+# Tool artifacts
+/.github/modernize/
