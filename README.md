@@ -2,6 +2,10 @@
 
 **Java 21 port of [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) (TypeScript).** Original library renders Mermaid diagrams as beautiful SVGs with ELK.js. This port renders the same diagrams with **Java2D** (`Graphics2D`) inside a Swing `JComponent`, using **Eclipse Layout Kernel (ELK)** for layout.
 
+<img width="1357" height="887" alt="image" src="https://github.com/user-attachments/assets/c5ca9356-05b8-4100-8157-58da736f8829" />
+<img width="1357" height="887" alt="image" src="https://github.com/user-attachments/assets/5277beb8-6583-49f6-a22e-fa6393ccae26" />
+<img width="1357" height="887" alt="image" src="https://github.com/user-attachments/assets/ad39037a-f668-4f6c-8baa-f988a89c48f3" />
+
 > Original work by [Craft Docs](https://craft.do) (MIT). This Java port keeps the **MIT** license.
 
 ## Features
